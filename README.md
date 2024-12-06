@@ -20,7 +20,8 @@ Download the repo and run npm i in order to install the necessary dependencies.
 
 ## Usage
 
-Run node index.js in order to run the program. Once running, answer the prompts the program gives you. These will be the EXACT words on the readme, so answer carefully. The program will then automatically create a readme based on the input you have given.
+Run node index.js in order to run the program. Once running, answer the prompts the program gives you. These will be the EXACT words on the readme, so answer carefully. The program will then automatically create a readme based on the input you have given. Example given below.
+[Example](https://drive.google.com/file/d/1FUQxNpCgIBU4dfEx8LysZ6tJti-ZHGtM/view)
 
 ## Contributing
 
